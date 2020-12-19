@@ -1,0 +1,9 @@
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/bin/Debug/net48/DownloaderApp.exe.config
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/bin/Debug/net48/DownloaderApp.exe
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/bin/Debug/net48/DownloaderApp.pdb
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/obj/Debug/net48/DownloaderApp.csprojAssemblyReference.cache
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/obj/Debug/net48/DownloaderApp.AssemblyInfoInputs.cache
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/obj/Debug/net48/DownloaderApp.AssemblyInfo.cs
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/obj/Debug/net48/DownloaderApp.csproj.CoreCompileInputs.cache
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/obj/Debug/net48/DownloaderApp.exe
+/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/obj/Debug/net48/DownloaderApp.pdb

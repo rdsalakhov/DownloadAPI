@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zza+Q9JmDe29jYFvi+pXIeMLhvqX8Rt8K6xPqIfnJAR3vDsUGMZ4jCbdpgBkTgC3NArSVE3VMfSTSMCyHFnExg==",
+  "success": true,
+  "projectFilePath": "/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/DownloaderApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/romansalakhov/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/romansalakhov/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.0/microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

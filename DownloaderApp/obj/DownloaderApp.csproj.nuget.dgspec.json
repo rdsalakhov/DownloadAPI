@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/DownloaderApp.csproj": {}
+  },
+  "projects": {
+    "/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/DownloaderApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/DownloaderApp.csproj",
+        "projectName": "DownloaderApp",
+        "projectPath": "/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/DownloaderApp.csproj",
+        "packagesPath": "/Users/romansalakhov/.nuget/packages/",
+        "outputPath": "/Users/romansalakhov/Desktop/projects/C#/DownloadAPI/DownloadAPI/DownloaderApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/romansalakhov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
